@@ -32,10 +32,6 @@ This project entails the design and implementation of a theoretical database sys
 3. **Query Execution:**
    - Utilize the `queries.sql` script to execute various queries and retrieve information from the database.
 
-## Contributors
-- [Your Name]
 
-## Acknowledgments
-Special thanks to JB HI FI for inspiring this project and providing insights into retail store operations.
 
 
